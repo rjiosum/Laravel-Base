@@ -4,7 +4,7 @@ Base model automatically populates uuid column of an entity (if the column exist
 It also resolves route model binding with id, uuid or slug. 
 e.g we can access a product using any of the following end points:
 
-/products/:id
+/product/:id
 
 /product/:uuid
 
